@@ -1,1 +1,1 @@
-Réplica do Pinterest desenvolvida em Flask (framework Python).
+Réplica do Pinterest desenvolvida utilizando Flask (framework Python).
